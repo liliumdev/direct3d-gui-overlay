@@ -1,0 +1,1075 @@
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31c07e0 -> 0x25b1240
+Hooked Direct3D9 device: 0x50dc2c0 -> 0x25b10b0
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27007e0 -> 0x3251240
+Hooked Direct3D9 device: 0x5d6c2c0 -> 0x32510b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31007e0 -> 0x3211240
+Hooked Direct3D9 device: 0x535c2c0 -> 0x32110b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+
+---------------------
+TatniumD3D Started...
+---------------------
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x23607e0 -> 0x3221240
+Hooked Direct3D9 device: 0x520c2c0 -> 0x32210b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31507e0 -> 0x3301240
+Hooked Direct3D9 device: 0x5eac2c0 -> 0x33010b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x32307e0 -> 0x2131240
+Hooked Direct3D9 device: 0x529c2c0 -> 0x21310b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31a07e0 -> 0x2631240
+Hooked Direct3D9 device: 0x5cac2c0 -> 0x26310b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x32007e0 -> 0x25c1240
+Hooked Direct3D9 device: 0x544c2c0 -> 0x25c10b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20b07e0 -> 0x2181240
+Hooked Direct3D9 device: 0x523c2c0 -> 0x21810b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26507e0 -> 0x3111240
+Hooked Direct3D9 device: 0x52ac2c0 -> 0x31110b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x3e07e0 -> 0x2051240
+Hooked Direct3D9 device: 0x5cdc2c0 -> 0x20510b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31b07e0 -> 0x31c1240
+Hooked Direct3D9 device: 0x529c2c0 -> 0x31c10b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x33107e0 -> 0x25c1240
+Hooked Direct3D9 device: 0x5cec2c0 -> 0x25c10b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31f07e0 -> 0x24e1240
+Hooked Direct3D9 device: 0x5cbc2c0 -> 0x24e10b0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31207e0 -> 0x2051210
+Hooked Direct3D9 device: 0x58dc2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x11607e0 -> 0x32f1210
+Hooked Direct3D9 device: 0x593c2c0 -> 0x32f1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x29707e0 -> 0x2051210
+Hooked Direct3D9 device: 0x51ec2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27307e0 -> 0x3321210
+Hooked Direct3D9 device: 0x53bc2c0 -> 0x3321080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x10407e0 -> 0x3241210
+Hooked Direct3D9 device: 0x5bac2c0 -> 0x3241080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26d07e0 -> 0x31f1210
+Hooked Direct3D9 device: 0x522c2c0 -> 0x31f1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31607e0 -> 0x32c1210
+Hooked Direct3D9 device: 0x53bc2c0 -> 0x32c1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27a07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x547c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31a07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x5d2c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x2ad07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x5d5c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26607e0 -> 0x2671210
+Hooked Direct3D9 device: 0x5c6c2c0 -> 0x2671080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x28c07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x534c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27907e0 -> 0x31d1290
+Hooked Direct3D9 device: 0x5cbc2c0 -> 0x31d1100
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27d07e0 -> 0x3371290
+Hooked Direct3D9 device: 0x5c9c2c0 -> 0x3371100
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x2bb07e0 -> 0x20f1210
+Hooked Direct3D9 device: 0x542c2c0 -> 0x20f1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27807e0 -> 0x151210
+Hooked Direct3D9 device: 0x526c2c0 -> 0x151080
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31407e0 -> 0x3001210
+Hooked Direct3D9 device: 0x5cfc2c0 -> 0x3001080
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20e07e0 -> 0x31e1210
+Hooked Direct3D9 device: 0x5d6c2c0 -> 0x31e1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27107e0 -> 0x31a1210
+Hooked Direct3D9 device: 0x544c2c0 -> 0x31a1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x24807e0 -> 0x3001210
+Hooked Direct3D9 device: 0x51ac2c0 -> 0x3001080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x32507e0 -> 0x2561210
+Hooked Direct3D9 device: 0x5cfc2c0 -> 0x2561080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26707e0 -> 0x1341210
+Hooked Direct3D9 device: 0x5cdc2c0 -> 0x1341080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26f07e0 -> 0x2461210
+Hooked Direct3D9 device: 0x534c2c0 -> 0x2461080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x3f07e0 -> 0x3201210
+Hooked Direct3D9 device: 0x531c2c0 -> 0x3201080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x2a007e0 -> 0x2051210
+Hooked Direct3D9 device: 0x51dc2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x14c07e0 -> 0x1341210
+Hooked Direct3D9 device: 0x520c2c0 -> 0x1341080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x33807e0 -> 0x2051210
+Hooked Direct3D9 device: 0x52ac2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26a07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x526c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20e07e0 -> 0x3101210
+Hooked Direct3D9 device: 0x5b5c2c0 -> 0x3101080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x25d07e0 -> 0x32c1210
+Hooked Direct3D9 device: 0x53ec2c0 -> 0x32c1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31507e0 -> 0x2051210
+Hooked Direct3D9 device: 0x52cc2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x33c07e0 -> 0x2421210
+Hooked Direct3D9 device: 0x5c0c2c0 -> 0x2421080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20d07e0 -> 0x3151210
+Hooked Direct3D9 device: 0x534c2c0 -> 0x3151080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31f07e0 -> 0x3001210
+Hooked Direct3D9 device: 0x540c2c0 -> 0x3001080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x3e07e0 -> 0x26b1210
+Hooked Direct3D9 device: 0x5b5c2c0 -> 0x26b1080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x3f07e0 -> 0x2671210
+Hooked Direct3D9 device: 0x52ec2c0 -> 0x2671080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26707e0 -> 0x3071210
+Hooked Direct3D9 device: 0x52fc2c0 -> 0x3071080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x25607e0 -> 0x3201210
+Hooked Direct3D9 device: 0x520c2c0 -> 0x3201080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27c07e0 -> 0x3291210
+Hooked Direct3D9 device: 0x5e6c2c0 -> 0x3291080
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x11507e0 -> 0x2591210
+Hooked Direct3D9 device: 0x532c2c0 -> 0x2591080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x21a07e0 -> 0x3181210
+Hooked Direct3D9 device: 0x5cbc2c0 -> 0x3181080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26f07e0 -> 0x3001210
+Hooked Direct3D9 device: 0x51ec2c0 -> 0x3001080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x28c07e0 -> 0x2051210
+Hooked Direct3D9 device: 0x571c2c0 -> 0x2051080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x11407e0 -> 0x3151210
+Hooked Direct3D9 device: 0x5d8c2c0 -> 0x3151080
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x10707e0 -> 0x32a1200
+Hooked Direct3D9 device: 0x539c2c0 -> 0x32a2fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20b07e0 -> 0x3001200
+Hooked Direct3D9 device: 0x53fc2c0 -> 0x3002fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31407e0 -> 0x20511d0
+Hooked Direct3D9 device: 0x5d4c2c0 -> 0x2052fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26807e0 -> 0x32011d0
+Hooked Direct3D9 device: 0x5c2c2c0 -> 0x3202fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x2a07e0 -> 0x31811d0
+Hooked Direct3D9 device: 0x526c2c0 -> 0x3182fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31b07e0 -> 0x25811d0
+Hooked Direct3D9 device: 0x530c2c0 -> 0x2582fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x32a07e0 -> 0x30011d0
+Hooked Direct3D9 device: 0x539c2c0 -> 0x3002fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26507e0 -> 0x31111d0
+Hooked Direct3D9 device: 0x524c2c0 -> 0x3112fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x23807e0 -> 0x34011d0
+Hooked Direct3D9 device: 0x53bc2c0 -> 0x3402fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x21907e0 -> 0x25811d0
+Hooked Direct3D9 device: 0x531c2c0 -> 0x2582fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31507e0 -> 0x33111d0
+Hooked Direct3D9 device: 0x52ac2c0 -> 0x3312fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26a07e0 -> 0x32c11d0
+Hooked Direct3D9 device: 0x5c3c2c0 -> 0x32c2fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27a07e0 -> 0x31611d0
+Hooked Direct3D9 device: 0x52fc2c0 -> 0x3162fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x35d07e0 -> 0x25711c0
+Hooked Direct3D9 device: 0x5d6c2c0 -> 0x2572fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26307e0 -> 0x30011c0
+Hooked Direct3D9 device: 0x5cfc2c0 -> 0x3002fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x25e07e0 -> 0x31c11c0
+Hooked Direct3D9 device: 0x5c1c2c0 -> 0x31c2fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27007e0 -> 0x32311c0
+Hooked Direct3D9 device: 0x536c2c0 -> 0x3232fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31407e0 -> 0x25d11c0
+Hooked Direct3D9 device: 0x52cc2c0 -> 0x25d2fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x25f07e0 -> 0x34411c0
+Hooked Direct3D9 device: 0x5cdc2c0 -> 0x3442fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20a07e0 -> 0x30011c0
+Hooked Direct3D9 device: 0x5cfc2c0 -> 0x3002fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27207e0 -> 0x30f11c0
+Hooked Direct3D9 device: 0x524c2c0 -> 0x30f2fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31307e0 -> 0x31411c0
+Hooked Direct3D9 device: 0x52dc2c0 -> 0x3142fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26f07e0 -> 0x30011c0
+Hooked Direct3D9 device: 0x5c1c2c0 -> 0x3002fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27507e0 -> 0x33811c0
+Hooked Direct3D9 device: 0x545c2c0 -> 0x3382fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x20907e0 -> 0x26211c0
+Hooked Direct3D9 device: 0x52fc2c0 -> 0x2622fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x30f07e0 -> 0x20511c0
+Hooked Direct3D9 device: 0x54ec2c0 -> 0x2052fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x30f07e0 -> 0x20511c0
+Hooked Direct3D9 device: 0x529c2c0 -> 0x2052fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26f07e0 -> 0x31011c0
+Hooked Direct3D9 device: 0x524c2c0 -> 0x3102fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x26e07e0 -> 0x33911c0
+Hooked Direct3D9 device: 0x5d9c2c0 -> 0x3392fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x21e07e0 -> 0x13411b0
+Hooked Direct3D9 device: 0x5e3c2c0 -> 0x1342fa0
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x25f07e0 -> 0x26b1190
+Hooked Direct3D9 device: 0x538c2c0 -> 0x26b2070
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x21f07e0 -> 0x3001190
+Hooked Direct3D9 device: 0x5d5c2c0 -> 0x3002070
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31d07e0 -> 0x1401190
+Hooked Direct3D9 device: 0x5f3c2c0 -> 0x1402070
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27207e0 -> 0x2591190
+Hooked Direct3D9 device: 0x5c8c2c0 -> 0x2592070
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x3a07e0 -> 0x31d1170
+Hooked Direct3D9 device: 0x523c2c0 -> 0x31d2060
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27507e0 -> 0x21a1170
+Hooked Direct3D9 device: 0x5d7c2c0 -> 0x21a2060
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x27f07e0 -> 0x1341170
+Hooked Direct3D9 device: 0x5c4c2c0 -> 0x1342060
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x28f07e0 -> 0x2051170
+Hooked Direct3D9 device: 0x534c2c0 -> 0x2052060
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+Direct3DCreate9(31) succeeded...
+Hooked Direct3D9 interface: 0x31f07e0 -> 0x3001170
+Hooked Direct3D9 device: 0x531c2c0 -> 0x3002060
+---------------------
+TatniumD3D Exiting...
+---------------------
+
+
+---------------------
+TatniumD3D Started...
+---------------------
+
+---------------------
+TatniumD3D Started...
+---------------------
+---------------------
+TatniumD3D Exiting...
+---------------------
+

@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TatniumD3D - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC883.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "TATNIUMD3D_EXPORTS" /Fp"Release/TatniumD3D.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\Administrator\Desktop\D3D_Starterkit_v3.0b\D3D_Starterkit_v3.0b\D3D9\old_workspace\cUI.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPC883.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPC884.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release/TatniumD3D.pdb" /machine:I386 /out:"Release/TatniumD3D.dll" /implib:"Release/TatniumD3D.lib" 
+.\Release\d3d9dev.obj
+.\Release\d3d9int.obj
+.\Release\d3d9tex.obj
+.\Release\Common.obj
+.\Release\cUI.obj
+.\Release\d3d9.obj
+.\Release\main.obj
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPC884.tmp"
+<h3>Output Window</h3>
+Compiling...
+cUI.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+TatniumD3D.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
